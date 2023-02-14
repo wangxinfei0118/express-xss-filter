@@ -17,4 +17,7 @@
     "url": "https://github.com/wangxinfei0118/express-xss-filter/issues"
   },
   "homepage": "https://github.com/wangxinfei0118/express-xss-filter#readme",
+  "dependencies": {
+    "xss": "^1.0.14"
+  }
 }
