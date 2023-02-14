@@ -1,17 +1,19 @@
 {
   "name": "express-xss-filter",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Xss-based express middleware for filtering front-end request data",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wangxinfei0118/express-xss-filter.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "express",
+    "xss",
+    "express-xss-filter"
+  ],
+  "author": "baldbear",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wangxinfei0118/express-xss-filter/issues"
