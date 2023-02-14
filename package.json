@@ -1,0 +1,20 @@
+{
+  "name": "express-xss-filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangxinfei0118/express-xss-filter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangxinfei0118/express-xss-filter/issues"
+  },
+  "homepage": "https://github.com/wangxinfei0118/express-xss-filter#readme",
+}
