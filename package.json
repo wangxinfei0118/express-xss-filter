@@ -1,6 +1,6 @@
 {
   "name": "express-xss-filter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Xss-based express middleware for filtering front-end request data",
   "main": "index.js",
   "scripts": {},
